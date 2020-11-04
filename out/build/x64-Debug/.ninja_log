@@ -1,0 +1,9 @@
+# ninja log v5
+0	522	0	CMakeFiles/SunnyTcsApi_autogen	725d67eb44a22dac
+0	522	0	SunnyTcsApi_autogen/mocs_compilation.cpp	725d67eb44a22dac
+540	1280	620996188	CMakeFiles/SunnyTcsApi.dir/third_party/QtWebApp/QtWebApp/httpserver/httpglobal.cpp.obj	6f6103fd5d9f6458
+526	2208	620996189	CMakeFiles/SunnyTcsApi.dir/src/controller/SunnyTcsApiOrderController.cpp.obj	39adb353fa0bad7
+533	2210	620996189	CMakeFiles/SunnyTcsApi.dir/src/global.cpp.obj	9289b3777ee3154c
+538	2505	620996189	CMakeFiles/SunnyTcsApi.dir/third_party/QtWebApp/QtWebApp/httpserver/httpconnectionhandler.cpp.obj	df7f9abd82735bb
+543	2559	620996189	CMakeFiles/SunnyTcsApi.dir/third_party/QtWebApp/QtWebApp/httpserver/httpconnectionhandlerpool.cpp.obj	afaa3c86c697dbd1
+1281	2625	620996189	CMakeFiles/SunnyTcsApi.dir/third_party/QtWebApp/QtWebApp/logging/dualfilelogger.cpp.obj	54a2c968b7042222

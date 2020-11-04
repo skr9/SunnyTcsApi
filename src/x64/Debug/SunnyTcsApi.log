@@ -1,0 +1,136 @@
+﻿  SunnyApiRouter.cpp
+  SunnyTcsAgvModel.cpp
+  SunnyTcsApiAgvController.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 SunnyApiRouter.cpp)
+  SunnyApiRouter.cpp: note: 参见“size_t”的声明 (编译源文件 SunnyApiRouter.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 SunnyApiRouter.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 model\SunnyTcsAgvModel.cpp)
+  model\SunnyTcsAgvModel.cpp: note: 参见“size_t”的声明 (编译源文件 model\SunnyTcsAgvModel.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 model\SunnyTcsAgvModel.cpp)
+  SunnyTcsApiMessageCenter.cpp
+  SunnyTcsApiOrderController.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 controller\SunnyTcsApiAgvController.cpp)
+  controller\SunnyTcsApiAgvController.cpp: note: 参见“size_t”的声明 (编译源文件 controller\SunnyTcsApiAgvController.cpp)
+  global.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 controller\SunnyTcsApiOrderController.cpp)
+  controller\SunnyTcsApiOrderController.cpp: note: 参见“size_t”的声明 (编译源文件 controller\SunnyTcsApiOrderController.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 controller\SunnyTcsApiAgvController.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 SunnyTcsApiMessageCenter.cpp)
+  SunnyTcsApiMessageCenter.cpp: note: 参见“size_t”的声明 (编译源文件 SunnyTcsApiMessageCenter.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 controller\SunnyTcsApiOrderController.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 SunnyTcsApiMessageCenter.cpp)
+  httpconnectionhandler.cpp
+  httpconnectionhandlerpool.cpp
+  httpcookie.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 global.cpp)
+  global.cpp: note: 参见“size_t”的声明 (编译源文件 global.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpcookie.cpp)
+  ..\third_party\QtWebApp\QtWebApp\httpserver\httpcookie.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpcookie.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpconnectionhandler.cpp)
+  ..\third_party\QtWebApp\QtWebApp\httpserver\httpconnectionhandler.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpconnectionhandler.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 global.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpconnectionhandler.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpcookie.cpp)
+  httpglobal.cpp
+  httplistener.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpconnectionhandlerpool.cpp)
+  ..\third_party\QtWebApp\QtWebApp\httpserver\httpconnectionhandlerpool.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpconnectionhandlerpool.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpconnectionhandlerpool.cpp)
+  httprequest.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httplistener.cpp)
+  ..\third_party\QtWebApp\QtWebApp\httpserver\httplistener.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httplistener.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpglobal.cpp)
+  ..\third_party\QtWebApp\QtWebApp\httpserver\httpglobal.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpglobal.cpp)
+  httprequesthandler.cpp
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httplistener.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpglobal.cpp)
+  httpresponse.cpp
+  httpsession.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httprequest.cpp)
+  ..\third_party\QtWebApp\QtWebApp\httpserver\httprequest.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httprequest.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httprequest.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httprequesthandler.cpp)
+  ..\third_party\QtWebApp\QtWebApp\httpserver\httprequesthandler.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httprequesthandler.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httprequesthandler.cpp)
+  httpsessionstore.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpsession.cpp)
+  ..\third_party\QtWebApp\QtWebApp\httpserver\httpsession.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpsession.cpp)
+  main.cpp
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpsession.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpresponse.cpp)
+  ..\third_party\QtWebApp\QtWebApp\httpserver\httpresponse.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpresponse.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpresponse.cpp)
+  staticfilecontroller.cpp
+  template.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 main.cpp)
+  main.cpp: note: 参见“size_t”的声明 (编译源文件 main.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 main.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpsessionstore.cpp)
+  ..\third_party\QtWebApp\QtWebApp\httpserver\httpsessionstore.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpsessionstore.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\httpsessionstore.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\templateengine\template.cpp)
+  ..\third_party\QtWebApp\QtWebApp\templateengine\template.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\templateengine\template.cpp)
+  templatecache.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\staticfilecontroller.cpp)
+  ..\third_party\QtWebApp\QtWebApp\httpserver\staticfilecontroller.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\staticfilecontroller.cpp)
+  templateloader.cpp
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\templateengine\template.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\httpserver\staticfilecontroller.cpp)
+  moc_SunnyApiRouter.cpp
+  moc_SunnyTcsAgvModel.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\templateengine\templatecache.cpp)
+  ..\third_party\QtWebApp\QtWebApp\templateengine\templatecache.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\templateengine\templatecache.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\third_party\QtWebApp\QtWebApp\templateengine\templateloader.cpp)
+  ..\third_party\QtWebApp\QtWebApp\templateengine\templateloader.cpp: note: 参见“size_t”的声明 (编译源文件 ..\third_party\QtWebApp\QtWebApp\templateengine\templateloader.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\templateengine\templatecache.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\third_party\QtWebApp\QtWebApp\templateengine\templateloader.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyApiRouter.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyApiRouter.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyApiRouter.cpp)
+  moc_SunnyTcsApiAgvController.cpp
+  moc_SunnyTcsApiMessageCenter.cpp
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyApiRouter.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsAgvModel.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsAgvModel.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsAgvModel.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsAgvModel.cpp)
+  moc_SunnyTcsApiOrderController.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsApiAgvController.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsApiAgvController.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsApiAgvController.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsApiAgvController.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsApiMessageCenter.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsApiMessageCenter.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsApiMessageCenter.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsApiMessageCenter.cpp)
+  moc_httpconnectionhandler.cpp
+  moc_httpconnectionhandlerpool.cpp
+  moc_httplistener.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsApiOrderController.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsApiOrderController.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsApiOrderController.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_SunnyTcsApiOrderController.cpp)
+  moc_httprequesthandler.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httpconnectionhandlerpool.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httpconnectionhandlerpool.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httpconnectionhandlerpool.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httpconnectionhandler.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httpconnectionhandler.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httpconnectionhandler.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httplistener.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httplistener.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httplistener.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httpconnectionhandler.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httpconnectionhandlerpool.cpp)
+  moc_httpsessionstore.cpp
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httplistener.cpp)
+  moc_staticfilecontroller.cpp
+  moc_templatecache.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httprequesthandler.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httprequesthandler.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httprequesthandler.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httprequesthandler.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httpsessionstore.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httpsessionstore.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httpsessionstore.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_httpsessionstore.cpp)
+  moc_templateloader.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_staticfilecontroller.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_staticfilecontroller.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_staticfilecontroller.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_templatecache.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_templatecache.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_templatecache.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_staticfilecontroller.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_templatecache.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h(198): error C2371: “size_t”: 重定义；不同的基类型 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_templateloader.cpp)
+  ..\build\intermediate\debug\SunnyTcsApid\moc\moc_templateloader.cpp: note: 参见“size_t”的声明 (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_templateloader.cpp)
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtCore/qprocessordetection.h(340): fatal error C1189: #error:  "Unable to determine byte order!" (编译源文件 ..\build\intermediate\debug\SunnyTcsApid\moc\moc_templateloader.cpp)
