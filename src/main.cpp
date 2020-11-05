@@ -115,7 +115,7 @@ int main(int argc, char *argv[])
     listenerSettings->beginGroup("listener");
     new HttpListener(listenerSettings,new SunnyApiRouter(&agvModel, &mapModel, &orderModel, &app),&app);
 
-    msgCenter->connectTo("127.0.0.1", 3000);
+    msgCenter->connectTo("10.10.10.192", 3000);
     msgCenter->queryAllVehicles();
 
     app.exec();

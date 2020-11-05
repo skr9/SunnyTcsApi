@@ -3,6 +3,7 @@
 #include <qjsonarray.h>
 #include <qjsondocument.h>
 #include <qdatetime.h>
+#include <qdebug.h>
 
 QString SunnyTcsOrderModel::stateString(qint32 state)
 {
@@ -26,6 +27,7 @@ void SunnyTcsOrderModel::removeOverTimeUpdatedOrders()
 	auto iter = _updatedOrders.begin();
 	while (iter != _updatedOrders.end()) {
 		if (QDateTime::currentMSecsSinceEpoch() - iter.value() > 10000) {
+			qInfo() << "remove updated order:" << iter.key();
 			iter = _updatedOrders.erase(iter);
 			continue;
 		}
@@ -43,6 +45,7 @@ void SunnyTcsOrderModel::orderUpdatedSlot(const QString& ordID, qint8 state, con
 			}
 
 			iter->statu = stateString(state);
+			qInfo() << "order:" << ordID << ", updated";
 
 			_updatedOrders[ordID] = QDateTime::currentMSecsSinceEpoch();
 			return;
@@ -62,6 +65,7 @@ void SunnyTcsOrderModel::orderCreatedSlot(const QByteArray& data)
 		return;
 	}
 	ord.id = id;
+	qInfo() << "order created:" << id;
 	ord.vehicle = jo["AGV"].toString();
 	qint32 state = jo["State"].toInt(-1);
 	if (state < 0) {
